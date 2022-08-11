@@ -2,6 +2,6 @@ package DEPENDENCY
 
 import "fmt"
 
-func SR() {
+func Sayhhd() {
 	fmt.Println("ini d")
 }
