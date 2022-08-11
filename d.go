@@ -1,5 +1,7 @@
 package DEPENDENCY
 
-func d() string {
-	return "ini d"
+import "fmt"
+
+func SR() {
+	fmt.Println("ini d")
 }
